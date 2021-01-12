@@ -22,4 +22,3 @@ Expect to use Repl.it install system.
 
 In order to use this application, just interact with it like it is any other chatbot, and it will respond accordingly.
 
-### Any optional sections
