@@ -12,14 +12,14 @@ This is a simple chatbot that talks about Basketball that was created using the 
 
 ## Background
 
-This application was created 
+This application was created as a introductory project into the Code2College Elite Class. There was an option between a WebScraping project, a ChatBot, or a AutoCorrect algorith. I chose a ChatBot because it was something that I never created before, and I'm interested in AI and Machine Learning, and this project was my introductory into this field. 
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+Expect to use Repl.it install system.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+In order to use this application, just interact with it like it is any other chatbot, and it will respond accordingly.
 
 ### Any optional sections
